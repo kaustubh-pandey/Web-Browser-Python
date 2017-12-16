@@ -1,7 +1,7 @@
 # Web-Browser-Python
 A simple web browser using python GTK
 
-This will run in any gtk
+This will run in any OS that supports gtk
 
 1.Install python gtk and webkit using sudo apt-get install libwebkitgtk-1.0-0 python-webkit
 
